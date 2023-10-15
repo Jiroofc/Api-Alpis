@@ -35,7 +35,7 @@ servicesmtp = 'Gmail'//Ada gmail ada sendinblue ikut masing2 limit gmail 500 lim
 sendemail = 'gamewibu4@gmail.com' //Email SMTP
 fromsendemail = 'gamewibu4@gmail.com' // From Email SMTP *kalau takde custom email kena sama email dengan Email SMTP
 sendpwmail = 'YVDQ 8uUt susV' // Password Email SMTP
-domain = ''// domain website tanpa http or https
+domain = 'darkhole.panell-storee.my.id'// domain website tanpa http or https
 
 //_______________________ ┏  Apikey  ┓ _______________________\\
 
